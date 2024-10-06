@@ -1,0 +1,28 @@
+2024-10-280 10:51:09 INFO  AccountRegistrationTest:52 - --------Launching application--------
+2024-10-280 10:51:11 INFO  AccountRegistrationTest:14 - ---------Starting Account Registration Test---------
+2024-10-280 10:51:11 INFO  AccountRegistrationTest:19 - Clicked on MyAccount
+2024-10-280 10:51:12 INFO  AccountRegistrationTest:22 - Clicked on Register link
+2024-10-280 10:51:12 INFO  AccountRegistrationTest:27 - Providing customer information
+2024-10-280 10:51:13 INFO  AccountRegistrationTest:39 - Validating expected message
+2024-10-280 10:51:13 INFO  AccountRegistrationTest:42 - Account Registration Test PASSED
+2024-10-280 10:51:13 INFO  AccountRegistrationTest:46 - ---------Finished Account Registration Testing3---------
+2024-10-280 10:51:14 INFO  LoginTest:52 - --------Launching application--------
+2024-10-280 10:51:17 INFO  LoginTest:15 - -------Strating Login Test-------
+2024-10-280 10:51:17 INFO  LoginTest:23 - Clicked on Login link under myAccount...
+2024-10-280 10:51:17 INFO  LoginTest:27 - -------Adding credentials-------
+2024-10-280 10:51:18 INFO  LoginTest:31 - Clicked on login button...
+2024-10-280 10:51:18 INFO  LoginTest:40 - -------Login Test completed-------
+2024-10-280 11:19:22 INFO  AccountRegistrationTest:52 - --------Launching application--------
+2024-10-280 11:19:25 INFO  AccountRegistrationTest:14 - ---------Starting Account Registration Test---------
+2024-10-280 11:19:25 INFO  AccountRegistrationTest:19 - Clicked on MyAccount
+2024-10-280 11:19:25 INFO  AccountRegistrationTest:22 - Clicked on Register link
+2024-10-280 11:19:25 INFO  AccountRegistrationTest:27 - Providing customer information
+2024-10-280 11:19:27 INFO  AccountRegistrationTest:39 - Validating expected message
+2024-10-280 11:19:27 INFO  AccountRegistrationTest:42 - Account Registration Test PASSED
+2024-10-280 11:19:27 INFO  AccountRegistrationTest:46 - ---------Finished Account Registration Testing3---------
+2024-10-280 11:19:28 INFO  LoginTest:52 - --------Launching application--------
+2024-10-280 11:19:30 INFO  LoginTest:15 - -------Strating Login Test-------
+2024-10-280 11:19:31 INFO  LoginTest:23 - Clicked on Login link under myAccount...
+2024-10-280 11:19:31 INFO  LoginTest:27 - -------Adding credentials-------
+2024-10-280 11:19:32 INFO  LoginTest:31 - Clicked on login button...
+2024-10-280 11:19:32 INFO  LoginTest:40 - -------Login Test completed-------
